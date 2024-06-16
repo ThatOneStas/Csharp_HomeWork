@@ -1,0 +1,14 @@
+C:\Users\Cтас\source\repos\homeworkCS10.06.24\homeworkCS10.06.24\obj\Debug\net8.0\homeworkCS10.06.24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cтас\source\repos\homeworkCS10.06.24\homeworkCS10.06.24\obj\Debug\net8.0\homeworkCS10.06.24.AssemblyInfoInputs.cache
+C:\Users\Cтас\source\repos\homeworkCS10.06.24\homeworkCS10.06.24\obj\Debug\net8.0\homeworkCS10.06.24.AssemblyInfo.cs
+C:\Users\Cтас\source\repos\homeworkCS10.06.24\homeworkCS10.06.24\obj\Debug\net8.0\homeworkCS10.06.24.csproj.CoreCompileInputs.cache
+C:\Users\Cтас\source\repos\homeworkCS10.06.24\homeworkCS10.06.24\bin\Debug\net8.0\homeworkCS10.06.24.exe
+C:\Users\Cтас\source\repos\homeworkCS10.06.24\homeworkCS10.06.24\bin\Debug\net8.0\homeworkCS10.06.24.deps.json
+C:\Users\Cтас\source\repos\homeworkCS10.06.24\homeworkCS10.06.24\bin\Debug\net8.0\homeworkCS10.06.24.runtimeconfig.json
+C:\Users\Cтас\source\repos\homeworkCS10.06.24\homeworkCS10.06.24\bin\Debug\net8.0\homeworkCS10.06.24.dll
+C:\Users\Cтас\source\repos\homeworkCS10.06.24\homeworkCS10.06.24\bin\Debug\net8.0\homeworkCS10.06.24.pdb
+C:\Users\Cтас\source\repos\homeworkCS10.06.24\homeworkCS10.06.24\obj\Debug\net8.0\homeworkCS10.06.24.dll
+C:\Users\Cтас\source\repos\homeworkCS10.06.24\homeworkCS10.06.24\obj\Debug\net8.0\refint\homeworkCS10.06.24.dll
+C:\Users\Cтас\source\repos\homeworkCS10.06.24\homeworkCS10.06.24\obj\Debug\net8.0\homeworkCS10.06.24.pdb
+C:\Users\Cтас\source\repos\homeworkCS10.06.24\homeworkCS10.06.24\obj\Debug\net8.0\homeworkCS10.06.24.genruntimeconfig.cache
+C:\Users\Cтас\source\repos\homeworkCS10.06.24\homeworkCS10.06.24\obj\Debug\net8.0\ref\homeworkCS10.06.24.dll
