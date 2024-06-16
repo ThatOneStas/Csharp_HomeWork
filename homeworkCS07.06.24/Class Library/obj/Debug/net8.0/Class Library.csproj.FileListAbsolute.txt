@@ -1,0 +1,11 @@
+C:\Users\Cтас\source\repos\homeworkCS07.06.24\Class Library\bin\Debug\net8.0\Class Library.deps.json
+C:\Users\Cтас\source\repos\homeworkCS07.06.24\Class Library\bin\Debug\net8.0\Class Library.dll
+C:\Users\Cтас\source\repos\homeworkCS07.06.24\Class Library\bin\Debug\net8.0\Class Library.pdb
+C:\Users\Cтас\source\repos\homeworkCS07.06.24\Class Library\obj\Debug\net8.0\Class Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cтас\source\repos\homeworkCS07.06.24\Class Library\obj\Debug\net8.0\Class Library.AssemblyInfoInputs.cache
+C:\Users\Cтас\source\repos\homeworkCS07.06.24\Class Library\obj\Debug\net8.0\Class Library.AssemblyInfo.cs
+C:\Users\Cтас\source\repos\homeworkCS07.06.24\Class Library\obj\Debug\net8.0\Class Library.csproj.CoreCompileInputs.cache
+C:\Users\Cтас\source\repos\homeworkCS07.06.24\Class Library\obj\Debug\net8.0\Class Library.dll
+C:\Users\Cтас\source\repos\homeworkCS07.06.24\Class Library\obj\Debug\net8.0\refint\Class Library.dll
+C:\Users\Cтас\source\repos\homeworkCS07.06.24\Class Library\obj\Debug\net8.0\Class Library.pdb
+C:\Users\Cтас\source\repos\homeworkCS07.06.24\Class Library\obj\Debug\net8.0\ref\Class Library.dll
